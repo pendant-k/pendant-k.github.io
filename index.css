@@ -1,0 +1,28 @@
+
+/* 전체 배경색 지정 */
+html{
+    background-color: #212529;
+}
+
+h1 {
+    padding-top: 10rem;
+}
+
+/* Nav bar */
+
+/* Header */
+.header-text {
+    font-weight: bold;
+}
+
+/* Main */
+
+#main {
+    background-color: #212529;
+    color: white;
+    text-align: center;
+}
+
+.desc-text {
+    opacity: 0.5;
+}
