@@ -1,14 +1,24 @@
 
 /* 전체 배경색 지정 */
 html{
-    background-color: #212529;
+    background-color: #013367;
+}
+* {
+    font-family: 'Press Start 2P', cursive;
 }
 
-h1 {
+.introduce {
     padding-top: 10rem;
 }
 
+h1 {
+    font-family: 'Press Start 2P', cursive;
+}
+
 /* Nav bar */
+.custom-navbar {
+background-color: #010066;
+}
 
 /* Header */
 .header-text {
@@ -18,11 +28,12 @@ h1 {
 /* Main */
 
 #main {
-    background-color: #212529;
+    background-color: #013367;
     color: white;
     text-align: center;
 }
 
 .desc-text {
     opacity: 0.5;
+    font-size: 12px;
 }
